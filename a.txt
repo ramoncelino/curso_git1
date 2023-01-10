@@ -5,3 +5,4 @@ Alteração para teste de Git Log
 Atualização
 
 New Feature
+Testando git stash  
