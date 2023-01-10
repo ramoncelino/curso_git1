@@ -1,1 +1,2 @@
 Teste B
+Alteração para Teste de Git Log
