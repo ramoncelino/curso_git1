@@ -6,3 +6,4 @@ Atualização
 
 New Feature
 Testando git stash  
+New
