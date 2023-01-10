@@ -3,3 +3,5 @@ Teste Git Pull
 Alteração para teste de Git Log 
 
 Atualização
+
+New Feature
